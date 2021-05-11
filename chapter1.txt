@@ -1,0 +1,8 @@
+Weather is very warm today. Tommorrow it'll be a bit cold again.
+
+// -----------------------------------------
+// $ ls -a
+// see all the hidden files
+
+// $ git add <filename>, $ git commit -m "message", by convention you should write the commit message in present tense
+// $ git log, to see what commits you've made

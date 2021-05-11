@@ -1,0 +1,23 @@
+Temperature during 24-26 degree celcious is comfortable. If it's over 30 degrees it's quite unberable. 
+
+/*
+$ git statusOn branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   chapter1.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        chapter2.txt
+        chapter3.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+*/
+
+// check with $ git log
+// commit 5d1c2255ba4da6cab42fc946e0ee4212582de071 (HEAD -> main)
+// the above HEAD means the current state we're in
