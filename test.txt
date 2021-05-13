@@ -1,0 +1,9 @@
+$ git branch test-branch-1
+plw@plw:~/Desktop/Udemy/GitHub/git-version-control$ git branch
+* master
+  test-branch-1
+plw@plw:~/Desktop/Udemy/GitHub/git-version-control$ git checkout test-branch-1 
+Switched to branch 'test-branch-1'
+plw@plw:~/Desktop/Udemy/GitHub/git-version-control$ git branch
+  master
+* test-branch-1
